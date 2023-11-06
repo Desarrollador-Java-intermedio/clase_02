@@ -12,5 +12,6 @@ Implemente un método que reciba como parámetro una lista de strings y una inte
 funcional que transforme cada String de la lista en mayúsculas. El método debe devolver un
 nuevo listado de String transformados.
 ## Youtube
-[!Alt text](https://i9.ytimg.com/vi/WE-BfDEBJ8c/mqdefault.jpg?v=6542a627&sqp=CPS6o6oG&rs=AOn4CLD0CA7cntGnBNdhXkkUthMfsp05WQ)
-[](https://youtu.be/WE-BfDEBJ8c)
+[!Alt text](./recursos/caratulas_java_02.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WE-BfDEBJ8c?si=P2ug991WRCsb0lmP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
