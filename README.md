@@ -14,4 +14,4 @@ nuevo listado de String transformados.
 ## Youtube
 [!Alt text](./recursos/caratulas_java_02.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WE-BfDEBJ8c?si=P2ug991WRCsb0lmP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Clase 2](https://img.youtube.com/vi/WE-BfDEBJ8c/0.jpg)](https://www.youtube.com/watch?v=WE-BfDEBJ8c)
